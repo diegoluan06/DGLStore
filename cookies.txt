@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.magazinevoce.com.br	TRUE	/	FALSE	1999999999	mvc_showcase_name	magazinediegoluan
+www.magazinevoce.com.br	TRUE	/	FALSE	1999999999	sessionid	0qa7fnfhuacju7qy4705ra697lqlwh7v
+.magazinevoce.com.br	TRUE	/	FALSE	1999999999	ml2_sid	e8327e7a-72a9-4e49-8993-0c473d811204
+.magazinevoce.com.br	TRUE	/	FALSE	1999999999	MLPARCEIRO	3440
+
